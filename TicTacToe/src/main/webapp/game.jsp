@@ -39,7 +39,7 @@
                 </td>    
                 </c:forEach>
             </tr>
-            </c:forEach>
+            </c:forEach> 
         </table>
         <c:if test="${winner != null}">
             <h2>${winner} Gana!</h1>
