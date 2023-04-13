@@ -12,6 +12,6 @@
         <form action="entryServlet" method="post">
             <input type="submit" name="User" value="Tu empiezas"><br/>
             <input type="submit" name="Computer" value="La computadora empieza">
-        </form>
+        </form> 
     </body>
 </html>

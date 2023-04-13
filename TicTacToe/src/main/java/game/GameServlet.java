@@ -43,7 +43,7 @@ public class GameServlet extends HttpServlet {
                             break;
                         case USER:
                             request.setAttribute("winner", "Usted");
-                            break;
+                            break; 
                     }
                 }
                 break;
