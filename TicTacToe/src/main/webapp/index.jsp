@@ -10,7 +10,7 @@
     <body>
         <h1>Triqui</h1>
         <form action="entryServlet" method="post">
-            <input type="submit" name="User" value="Tu empiezas"><br/>
+            <input type="submit" name="User" value="Tu empiezas rey"><br/>
             <input type="submit" name="Computer" value="La computadora empieza">
         </form> 
     </body>
