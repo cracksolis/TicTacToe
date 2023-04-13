@@ -43,7 +43,7 @@ public class GameServlet extends HttpServlet {
                             break;
                         case USER:
                             request.setAttribute("winner", "Usted");
-                            break;   
+                            break;
                     }
                 }
                 break;
@@ -51,7 +51,7 @@ public class GameServlet extends HttpServlet {
                 request.setAttribute("winner", "La computadora");
                 break;
             case USER:
-                request.setAttribute("winner", "Usted");
+                request.setAttribute("winner", "usted");
                 break;
         }
         if(winner == GamePlayer.NOBODY && !game.hasEmptyCell()){

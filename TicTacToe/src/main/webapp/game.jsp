@@ -14,7 +14,7 @@
     </head>
     <body>
         <h1>Triqui</h1>
-        <table border="1">
+        <table border="2">
             <c:forEach var="line" items="${gameBean.gridLines}">
             <tr>
                 <c:forEach var="cell" items="${gameBean.getGridStatus(line)}">
