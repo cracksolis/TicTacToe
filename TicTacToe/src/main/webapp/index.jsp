@@ -5,7 +5,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Triqui</title>  
+        <title>Triqui</title>   
     </head>
     <body>
         <h1>Triqui</h1>

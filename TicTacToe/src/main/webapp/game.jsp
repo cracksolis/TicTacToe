@@ -45,7 +45,7 @@
             <h2>${winner} Gana!</h1>
             <form action="index.jsp" method="post">
                 <input type="submit" name="Replay" value="Juega otra vez"><br/>
-            </form>
+            </form> 
         </c:if>
         </body>
 </html>
